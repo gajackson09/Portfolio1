@@ -1,4 +1,5 @@
 # Simple Calculator
+# I did use a youtube video as inspiration for the assignment here is the link https://www.youtube.com/watch?v=STJfIu8T3kM
 
 1. this is a simple calulator form - this is something I want to expand upon later
 2. drop down and text boxes will be use
