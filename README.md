@@ -1,10 +1,7 @@
-# Portfolio1_CharacterQuiz
+# Simple Calculator
 
-1. This is a simple which disney sidekick are you quiz => or possibly a welcome form to a fictional website (same skills still apply)
-2. I will be using the form including
-      radio buttons, fill in's, and drop downs 
-3. The user will see the character that they are similar to as a js pop-up message
-      after the user selects ok to close the menu the quiz will restart.
-
-4. JS, PHP, HTML, CSS 
-5. Think simple and gets the point across
+1. this is a simple calulator form - this is something I want to expand upon later
+2. drop down and text boxes will be use
+3. the creation of a simple website and css sheet is also a part of this assignment
+4. after calculations an echo should appear of the answer
+5. PHP, HTML, CSS

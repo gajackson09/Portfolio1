@@ -1,0 +1,18 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: lightslategray;
+    border: 2px solid black;
+    outline: black solid 10px;
+    margin: 135px;  
+    padding: 20px;
+}
+
+button{
+    max-width: 50%;
+    background-color: snow;
+    border: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: auto;
+    display:inline-block;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
